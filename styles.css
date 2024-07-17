@@ -96,7 +96,7 @@ header .nav-links a:hover {
 }
 
 .hero:hover {
-    background: linear-gradient(to right, #31eeaf63, rgba(0, 0, 0, 0.1)), url('images/background-me.png') center/cover no-repeat;
+    background: linear-gradient(175deg, #31eeaf63, rgba(0, 0, 0, 0.1)), url('images/background-me.png') center/cover no-repeat;
     /* Make sure the change is subtle and noticeable over time */
 }
 
